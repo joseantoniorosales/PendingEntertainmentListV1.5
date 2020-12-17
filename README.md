@@ -18,7 +18,7 @@ The web app starts with a homepage where you can find a little description and 3
 
 When you choose the series list button, It redirects you to another "homepage" where you can choose between the animelist and the serieslist.
 
-<img src="README IMAGES/Series Selector.PNG">
+<img src="README IMAGES/SeriesSelectorMobile.PNG">
 
 ## VISUALS
 
