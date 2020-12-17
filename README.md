@@ -37,3 +37,5 @@ When clicked on the info button, an emergent window will appear displaying the f
 When clicked on the pencil or the plus button, the app will change to the edit.page.html. There (depending what button you chose) you will be able to edit or add an item.
 
 <img src="README IMAGES/Edit Serie.PNG"><img src="README IMAGES/Add Book.PNG">
+
+## BECAUSE OF AN ERROR ON THE LAST VERSION, I DECIDED TO MAKE A 1.5 VERSION OF THE APP SEPARATING THE DIFFERENT LISTS IN SEPARATE FUNCTIONAL PROJECTS. I'LL TRY TO FIX IT IN FUTURE VERSIONS.
