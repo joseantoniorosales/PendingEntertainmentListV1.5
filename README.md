@@ -24,13 +24,16 @@ When you choose the series list button, It redirects you to another "homepage" w
 
 The lists shows an image of 280px width of the game/book/serie via an internet URL, being followed by the title, the author/director and an unique quality of every type of list. Right to the images are the functionality buttons.
 
-<img src="README IMAGES/GameListMobile.PNG">
+<img src="README IMAGES/Booklist Mobile.PNG">
 
 ## SHOW INFORMATION
 
 When clicked on the info button, an emergent window will appear displaying the full information of the item chosen.
 
+<img src="README FILES/Info Anime.PNG">
+
 ## EDIT/ADD INFORMATION
 
 When clicked on the pencil or the plus button, the app will change to the edit.page.html. There (depending what button you chose) you will be able to edit or add an item.
 
+<img src="README IMAGES/Edit Serie.PNG">
