@@ -34,7 +34,7 @@ When clicked on the info button, an emergent window will appear displaying the f
 
 ## EDIT
 
-When clicked on the pencil or the plus button, the app will change to the edit.page.html. There (depending what button you chose) you will be able to edit an item. After clicking on the save button, you have to delete the item to update the information.
+When clicked on the pencil or the plus button, the app will change to the edit.page.html. There (depending what button you chose) you will be able to edit an item. After clicking on the save button, you have to delete the item to update the information. Remember that you have to specify an ID that's not defined yet.
 
 <img src="README IMAGES/Edit Serie.PNG"><img src="README IMAGES/Add Book.PNG">
 
